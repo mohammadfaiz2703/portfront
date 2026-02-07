@@ -76,7 +76,7 @@ const ContactSection = () => {
             <FaInstagram size={40} />
          </Link>
          <Link
-            to="https://github.com/mohammadfaiz2722"
+            to="https://github.com/mohammadfaiz2703"
             target="_blank"
             rel="noopener noreferrer"
             className="text-gray-300 hover:text-gray-100 transition duration-300 transform hover:scale-110"
