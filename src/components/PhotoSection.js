@@ -2,7 +2,7 @@ import React, { useEffect,useState } from 'react';
 import { motion, useAnimation } from 'framer-motion';
 import { useInView } from 'react-intersection-observer';
 
-const photo = '/snap.jpg';
+const photo = '/mikey.jpg';
 
 const fadeInVariants = {
   hidden: { opacity: 0, y: 50 },
@@ -64,7 +64,7 @@ const PhotoSection = () => {
         >
           <img
             src={photo}
-            alt="Your Name"
+            alt="Mohammad Faiz"
             width={400}
             height={400}
             className="rounded-full object-cover shadow-2xl"
